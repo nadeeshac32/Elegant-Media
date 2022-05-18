@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appName</key>
+	<string>App Name</string>
+	<key>environments</key>
+	<dict>
+		<key>prod</key>
+		<dict>
+			<key>domains</key>
+			<dict>
+				<key>base_url</key>
+				<string>https://</string>
+				<key>other_url</key>
+				<string>https://google</string>
+			</dict>
+		</dict>
+		<key>uat</key>
+		<dict>
+			<key>domains</key>
+			<dict>
+				<key>base_url</key>
+				<string>http://uat.domain.com</string>
+				<key>other_url</key>
+				<string>https://google</string>
+			</dict>
+		</dict>
+		<key>qa</key>
+		<dict>
+			<key>domains</key>
+			<dict>
+				<key>base_url</key>
+				<string>http://qa.domain.com</string>
+				<key>other_url</key>
+				<string>https://google</string>
+			</dict>
+		</dict>
+		<key>dev</key>
+		<dict>
+			<key>domains</key>
+			<dict>
+				<key>base_url</key>
+				<string>https://dl.dropboxusercontent.com</string>
+				<key>other_url</key>
+				<string>https://google</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>apiKeys</key>
+	<dict>
+		<key>loginToken</key>
+		<string>logintoken</string>
+		<key>X-API-Key</key>
+		<string>xapikey</string>
+	</dict>
+</dict>
+</plist>

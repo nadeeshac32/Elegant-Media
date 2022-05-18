@@ -1,0 +1,6 @@
+framework module Pods_Elegant_MediaTests {
+  umbrella header "Pods-Elegant MediaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

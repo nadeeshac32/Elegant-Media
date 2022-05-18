@@ -1,0 +1,6 @@
+framework module Pods_Elegant_Media_Elegant_MediaUITests {
+  umbrella header "Pods-Elegant Media-Elegant MediaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,98 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CountryPickerView (3.3.0)
+  - Differentiator (4.0.1)
+  - DropDown (2.3.13)
+  - FBAEMKit (12.0.2):
+    - FBSDKCoreKit_Basics (= 12.0.2)
+  - FBSDKCoreKit (12.0.2):
+    - FBAEMKit (= 12.0.2)
+    - FBSDKCoreKit_Basics (= 12.0.2)
+  - FBSDKCoreKit_Basics (12.0.2)
+  - FBSDKLoginKit (12.0.2):
+    - FBSDKCoreKit (= 12.0.2)
+  - KeychainSwift (19.0.0)
+  - ObjectMapper (3.5.3)
+  - PinCodeTextField (0.1.0)
+  - QuickLayout (3.0.0)
+  - RxAppState (1.6.0):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxCocoa (5.1.3):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.3):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.3)
+  - SnapKit (4.2.0)
+  - SwiftEntryKit (1.2.3):
+    - QuickLayout (= 3.0.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CountryPickerView
+  - DropDown
+  - FBSDKLoginKit
+  - KeychainSwift (~> 19.0)
+  - ObjectMapper (~> 3.4)
+  - PinCodeTextField
+  - RxAppState
+  - RxCocoa
+  - RxDataSources (~> 4.0)
+  - SnapKit
+  - SwiftEntryKit (= 1.2.3)
+  - Toast-Swift (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CountryPickerView
+    - Differentiator
+    - DropDown
+    - FBAEMKit
+    - FBSDKCoreKit
+    - FBSDKCoreKit_Basics
+    - FBSDKLoginKit
+    - KeychainSwift
+    - ObjectMapper
+    - PinCodeTextField
+    - QuickLayout
+    - RxAppState
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SwiftEntryKit
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CountryPickerView: 6322ada32a80b0cd721b0267282a5c24f406f263
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  FBAEMKit: c6b8ddf8371640fcd1a3b844d0f8884c8f334cea
+  FBSDKCoreKit: 506c0fd1c09a3075f62be8fa36bdd921c563daa9
+  FBSDKCoreKit_Basics: c0701d1634c944d60dd3c6361d66dbd0e707a456
+  FBSDKLoginKit: d7c9f6ddff20d7b04c94d1f1f065dc7a441d44a0
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  PinCodeTextField: a3c39be58bde3ed1d6888d0fb1d88b0a4a2277cc
+  QuickLayout: 07b45a72b10083fee3f095990cfed1c1e7b27f0a
+  RxAppState: b633d7370970ecb80081912ea08a7bf3eb644b4e
+  RxCocoa: e2ed092d5432e4296aa818021d27de4090ac0354
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: 5a18c2eb2d68326ebaf0112f80d837ae41b92b97
+  RxSwift: 915abbdfb62214aa89ccd0b194d44fb478019b27
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftEntryKit: 340713c2e4a6662c5149629990bf1088bf5f0389
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 7bd54c5846d947964f4da1c55039855223529074
+
+COCOAPODS: 1.11.3
