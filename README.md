@@ -29,6 +29,9 @@ This project has used some base classes which were developed by me. Which can be
  - Select Environment: Go to Project(Elegant Media) -> Elegant Media -> Application -> AppConfig.swift (line 41) -> Change environment which you want to run (.prod / .dev / .qa).
  - Now you can simply run the project in simulator.
   
+## Use this test account to Sign in with Facebook
+ - email: "johndoe20220518@gmail.com"
+ - password: "johnDoe20220518."
   
 ## Project Architecture and Related details
 
