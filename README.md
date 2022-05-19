@@ -31,6 +31,7 @@ This project has used some base classes which were developed by me. Which can be
 
 ## Special notes
  - Please note that the image urls that comes with the API response are not working.
+ - I tried to load in the browser as well as in the postman; it doesn't work.
 
 ## Use this test account to Sign in with Facebook
  - email: "johndoe20220518@gmail.com"
