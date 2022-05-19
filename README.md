@@ -28,7 +28,10 @@ This project has used some base classes which were developed by me. Which can be
  - Open the project(.xcworkspace file) in Xcode.
  - Select Environment: Go to Project(Elegant Media) -> Elegant Media -> Application -> AppConfig.swift (line 41) -> Change environment which you want to run (.prod / .dev / .qa).
  - Now you can simply run the project in simulator.
-  
+
+## Special notes
+ - Please note that the image urls that comes with the API response are not working.
+
 ## Use this test account to Sign in with Facebook
  - email: "johndoe20220518@gmail.com"
  - password: "johnDoe20220518."
